@@ -9,6 +9,12 @@ Course project from **MMA4002 Design for Automated Manufacturing** at NTNU Åles
 > **Single take, no cuts** — the full assembly cycle is completed by the cobot from start to finish.
 > Full-speed video on YouTube: https://youtu.be/96OegzUco4I
 
+## Finished product
+
+![Finished box, lid open](photos/box_open.jpg)
+
+Hinged box with 3D-printed corner brackets joining laser-cut panels. Lid hinges at one corner.
+
 ## Project scope
 
 - **Box design** — designed a box with custom corner interface, hinge and latch, all 3D-printable for assembly by a robot arm.
@@ -31,7 +37,7 @@ Course project from **MMA4002 Design for Automated Manufacturing** at NTNU Åles
 
 - `README.md` — this file
 - `full_assembly_x8.gif` — full assembly cycle at 8x speed
-- STEP files of designs:
+- `cad/` — STEP files of all designs
   - `prototype-assembly.step` — full box assembly
   - `prototype-side.step` — box side
   - `prototype-corner.step` — corner part
